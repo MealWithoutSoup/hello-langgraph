@@ -174,8 +174,6 @@ node_one
 
 ## LangGraph 기본 구조
 
-모든 노트북은 다음 패턴을 따릅니다:
-
 ```python
 # 1. State 정의
 class State(TypedDict):
