@@ -1,5 +1,13 @@
 /.venv
 .env
 
+# db file
+*.db
+*.db-shm
+*.db-wal
+
 # claude
 CLAUDE.md
+
+# langgraph
+/.langgraph_api
